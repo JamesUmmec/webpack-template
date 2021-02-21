@@ -1,0 +1,6 @@
+# npm managed file and dir
+/node_modules
+package-lock.json
+
+# output dir
+/dist
