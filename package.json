@@ -1,7 +1,7 @@
 {
-	"name": "webpack-template",
+	"name": "your-project-name",
 	"version": "1.0.0",
-	"description": "a template using webpack, typescript, less and jquery to build up webpage.",
+	"description": "your project description.",
 	"main": "dist/main.js",
 	"scripts": {
 		"test": "echo \"there is no test command.\" && exit 0",
@@ -10,14 +10,12 @@
 		"less": "less-watch-compiler --plugins clean-css ./less ./dist"
 	},
 	"keywords": [
-		"webpack",
-		"typescript",
-		"less",
-		"jquery",
-		"template"
+		"your",
+		"keywords",
+		"here"
 	],
-	"author": "JamesUmmex",
-	"license": "MIT",
+	"author": "YourName",
+	"license": "add your license here",
 	"devDependencies": {
 		"@types/jquery": "^3.5.5",
 		"jquery": "^3.5.1",
